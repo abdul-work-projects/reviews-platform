@@ -1,0 +1,33 @@
+<svg viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="appleIconGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+    <linearGradient id="appleStarGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+
+  <rect
+    x="0"
+    y="0"
+    width="180"
+    height="180"
+    rx="40"
+    fill="url(#appleIconGradient)"
+  />
+
+  <path
+    d="M45 36h36c14.912 0 27 12.088 27 27s-12.088 27-27 27h-9l27 36h-22.5l-22.5-31.5V126H36V36h9zm18 36h18c4.97 0 9-4.03 9-9s-4.03-9-9-9H63v18z"
+    fill="white"
+    fill-opacity="0.95"
+  />
+
+  <path
+    d="M135 27l5.4 10.8 12.6 1.8-9 9 2.25 12.6-11.25-5.85-11.25 5.85 2.25-12.6-9-9 12.6-1.8L135 27z"
+    fill="url(#appleStarGradient)"
+  />
+</svg>

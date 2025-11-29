@@ -1,0 +1,33 @@
+<svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="faviconGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+    <linearGradient id="faviconStarGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+
+  <rect
+    x="2"
+    y="2"
+    width="36"
+    height="36"
+    rx="10"
+    fill="url(#faviconGradient)"
+  />
+
+  <path
+    d="M12 10h8c3.314 0 6 2.686 6 6s-2.686 6-6 6h-2l6 8h-5l-5-7v7h-4V10h2zm4 8h4c1.105 0 2-.895 2-2s-.895-2-2-2h-4v4z"
+    fill="white"
+    fill-opacity="0.95"
+  />
+
+  <path
+    d="M30 8l1.2 2.4 2.8.4-2 2 .5 2.8-2.5-1.3-2.5 1.3.5-2.8-2-2 2.8-.4L30 8z"
+    fill="url(#faviconStarGradient)"
+  />
+</svg>
